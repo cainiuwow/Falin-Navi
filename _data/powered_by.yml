@@ -1,0 +1,38 @@
+- name: Jekyll
+  url: http://jekyllrb.com/
+
+- name: jQuery
+  url: http://jquery.com/
+
+- name: BYR-Navi
+  url: https://github.com/iROCKBUNNY/BYR-Navi
+  
+- name: Semantic UI
+  url: http://semantic-ui.com/
+  
+- name: CountUp.js
+  url: http://inorganik.github.io/countUp.js/
+
+- name: GitHub Pages
+  url: https://pages.github.com/
+
+- name: JavaScript Cookie
+  url: https://github.com/js-cookie/js-cookie
+
+  
+#- name: Font Awesome
+#  url: http://fontawesome.io/
+
+# - name: Shields.io
+#   url: http://shields.io/
+
+# - name: Moment.js
+#   url: http://momentjs.com/
+
+
+
+# - name: ECharts
+#   url: http://echarts.baidu.com/
+
+
+
