@@ -21,15 +21,15 @@
 
     - name: 微博
       icon: weibo red
-      style: LightSkyBlue
+      style: basic
       url: http://weibo.com/
 
     - name: 爱奇艺
-      style: LimeGreen
+      style: basic
       url: http://www.iqiyi.com/
 
     - name: 博海拾贝
-      style: CornflowerBlue
+      style: FF0000
       url: https://bohaishibei.com
 
     - name: 喷嚏网
