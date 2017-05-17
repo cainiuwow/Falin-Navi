@@ -41,7 +41,7 @@
 
     - name: QQ邮箱
       icon: qq black
-      style: turquoise
+      style: #0099ff
       url: http://mail.qq.com/
 
     - name: 网易邮箱
