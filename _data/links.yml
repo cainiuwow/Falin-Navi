@@ -41,7 +41,7 @@
 
     - name: QQ邮箱
       icon: qq black
-      style: #0099ff
+      style: Light Blue
       url: http://mail.qq.com/
 
     - name: 网易邮箱
@@ -55,7 +55,7 @@
 
     - name: 飞猪旅行
       icon: send green
-      style: gold
+      style: orange
       url: https://www.alitrip.com
 
     - name: 百度地图
