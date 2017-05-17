@@ -93,6 +93,10 @@
       style: basic
       url: http://baike.baidu.com/    
 
+    - name: 极忆
+      style: denim
+      url: https://imemoryer.com
+
     - name: 司法部
       style: basic
       url: http://www.moj.gov.cn
