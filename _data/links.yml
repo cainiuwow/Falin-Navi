@@ -21,15 +21,15 @@
 
     - name: 微博
       icon: weibo red
-      style: basic
+      style: LightSkyBlue
       url: http://weibo.com/
 
     - name: 爱奇艺
-      style: basic
+      style: LimeGreen
       url: http://www.iqiyi.com/
 
     - name: 博海拾贝
-      style: basic
+      style: CornflowerBlue
       url: https://bohaishibei.com
 
     - name: 喷嚏网
@@ -41,7 +41,7 @@
 
     - name: QQ邮箱
       icon: qq black
-      style: Light Blue
+      style: basic
       url: http://mail.qq.com/
 
     - name: 网易邮箱
@@ -55,7 +55,7 @@
 
     - name: 飞猪旅行
       icon: send green
-      style: orange
+      style: basic
       url: https://www.alitrip.com
 
     - name: 百度地图
@@ -106,7 +106,7 @@
       url: http://www.cicpa.org.cn
 
     - name: 东奥会计
-      style: basic
+      style: orange
       url: http://www.dongao.com/
 
     - name: 网易公开课
