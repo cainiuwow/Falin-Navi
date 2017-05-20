@@ -29,7 +29,7 @@
       url: http://www.iqiyi.com/
 
     - name: 博海拾贝
-      style: basic
+      style: $darkerGray
       url: https://bohaishibei.com
 
     - name: 喷嚏网
