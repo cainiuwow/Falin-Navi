@@ -38,7 +38,47 @@
 
   - category: 工具
     links:
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: http://mail.qq.com/
 
+    - name: 网易邮箱
+      style: basic
+      url: http://email.163.com/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: http://mail.google.com/      
+
+    - name: 飞猪旅行
+      icon: send green
+      style: basic
+      url: https://www.alitrip.com
+
+    - name: 百度地图
+      icon: marker red
+      style: basic
+      url: http://map.baidu.com/
+
+    - name: 百度翻译
+      icon: paw blue
+      style: basic
+      url: http://fanyi.baidu.com/
+
+    - name: 快递查询
+      icon: shipping olive
+      style: basic
+      url: http://www.kuaidi100.com/
+
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: http://www.linkedin.com/
+
+ - category: 工具
+    links:
     - name: QQ邮箱
       icon: qq black
       style: basic
