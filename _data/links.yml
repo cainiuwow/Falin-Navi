@@ -140,7 +140,7 @@
       style: basic
       url: http://www.199it.com
 
-  - category: 法律检索
+  - category: 法律数据库
     links:
     - name: 无訟案例
       style: blue
@@ -188,11 +188,11 @@
       
      - name: 中国知网
       style: basic
-      url: http://www.cnki.net     
+      url: http://www.cnki.net
  
     - name: 万方数据
       style: basic
-      url: http://www.wanfangdata.com.cn 
+      url: http://www.wanfangdata.com.cn
 
   - category: 律师工具
     links:
