@@ -209,23 +209,11 @@
       url: http://www.zuiming.net/51.html
 
 
- - category: 法律网站
+  - category: 知识6
     links:
-    - name: 米律
-      style: basic
-      url: http://www.milv.cn
-      
-     - name: 米律
-      style: basic
-      url: http://www.milv.cn
- 
-     - name: 米律
-      style: basic
-      url: http://www.milv.cn
-      
-     - name: 米律
-      style: basic
-      url: http://www.milv.cn
+    - name: 知乎
+      style: blue
+      url: http://www.zhihu.com/
  
      - name: 米律
       style: basic
