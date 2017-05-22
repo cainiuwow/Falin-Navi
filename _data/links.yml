@@ -28,13 +28,21 @@
       style: basic
       url: http://www.iqiyi.com/
 
+    - name: 网易云音乐
+      style: basic
+      url: http://music.163.com
+
     - name: 博海拾贝
       style: basic
       url: https://bohaishibei.com
 
     - name: 喷嚏网
       style: basic
-      url: http://www.dapenti.com/blog/index.asp
+      url: http://www.dapenti.com/blog/index.asp    
+      
+    - name: 下厨房
+      style: basic
+      url: http://www.xiachufang.com      
 
   - category: 工具
     links:
@@ -104,6 +112,10 @@
       style: basic
       url: http://tingshen.court.gov.cn
 
+    - name: 学法网
+      style: basic
+      url: http://www.xuefa.com
+
     - name: 注册会计师协会
       style: basic
       url: http://www.cicpa.org.cn
@@ -123,11 +135,15 @@
     - name: 视野论坛
       style: basic
       url: http://bbs.esnai.com/forum-16-1.html
+      
+    - name: 199it行业数据报告
+      style: basic
+      url: http://www.199it.com
 
   - category: 法律/案例检索
     links:
     - name: 无訟案例
-      style: basic
+      style: blue
       url: http://www.itslaw.com/bj
 
     - name: 北大法宝
@@ -147,7 +163,7 @@
       url: http://law.wkinfo.com.cn/
 
     - name: 裁判文书网
-      style: basic
+      style: red
       url: http://wenshu.court.gov.cn/
 
     - name: CaseShare
@@ -169,6 +185,14 @@
     - name: 国务院法规检索
       style: basic
       url: http://search.chinalaw.gov.cn/search2.html
+      
+     - name: 中国知网
+      style: basic
+      url: http://www.cnki.net     
+ 
+    - name: 万方数据
+      style: basic
+      url: http://www.wanfangdata.com.cn 
 
   - category: 律师工具
     links:
