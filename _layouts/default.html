@@ -8,13 +8,10 @@
     <meta name="updated_at" content="{{ site.time | date_to_xmlschema }}">
     {% seo %}
     <link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/semantic-ui/2.2.10/semantic.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize.css' | relative_url }}">
-
     {% if page.home %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-home.css' | relative_url }}">{% endif %}
     {% if page.analytics %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-analytics.css' | relative_url }}">{% endif %}
     {% if page.donate %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-donate.css' | relative_url }}">{% endif %}
-    {% if page.search %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-search.css' | relative_url }}">{% endif %}
     {% if page.error %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-error.css' | relative_url }}">{% endif %}
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/customize-masthead.css' | relative_url }}">
     <link rel="apple-touch-icon" type="image/png" href="{{ '/apple-touch-icon.png' | relative_url }}">
@@ -29,7 +26,6 @@
             {% if page.home %}{% include search.html %}{% endif %}
             {% if page.analytics %}{% include analytics_header.html %}{% endif %}
             {% if page.donate %}{% include donate_header.html %}{% endif %}
-            {% if page.search %}{% include search_header.html %}{% endif %}
             {% if page.error %}{% include error_header.html %}{% endif %}
         </div>
         {{ content }}

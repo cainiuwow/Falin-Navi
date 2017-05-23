@@ -560,7 +560,7 @@ visitMapChart.setOption({
             text:['High','Low'],
             calculable: true,
             inRange: {
-                color: ['#F6EFA6', '#D88273', '#BF444C']
+                color: ['lightskyblue', 'yellow', 'orangered']
             }
         },
         series: [{
@@ -730,11 +730,11 @@ visitCalendarChart.setOption({
             }
         },
         visualMap: {
-            min: 50,
-            max: 1200,
+            min: 300,
+            max: 800,
             calculable: true,
             inRange: {
-                color: ['#F6EFA6', '#D88273', '#BF444C']
+                color: ['#F6EFA6', '#BF444C']
             },
             orient: 'horizontal',
             top: 'top',
