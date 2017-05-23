@@ -21,7 +21,7 @@
 
     - name: 微博
       icon: weibo red
-      style: basic
+      style: icon-food turquoise
       url: http://weibo.com/
 
     - name: 爱奇艺
@@ -35,6 +35,10 @@
     - name: 喷嚏网
       style: basic
       url: http://www.dapenti.com/blog/index.asp
+
+    - name: 下厨房
+      style: basic
+      url: https://www.xiachufang.com
 
   - category: 工具
     links:
@@ -174,7 +178,7 @@
   - category: 律师工具
     links:
     - name: 文书样式
-      style: basic
+      style: red
       url: http://www.court.gov.cn/susongyangshi-75.html
 
     - name: 诉讼费计算
