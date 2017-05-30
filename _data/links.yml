@@ -41,6 +41,10 @@
       style: basic
       url: https://www.xiachufang.com
 
+    - name: 什么值得买
+      style: basic
+      url: https://www.smzdm.com
+
   - category: 工具
     links:
 
